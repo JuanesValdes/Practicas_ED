@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemigo
+  - Radar
+  - tanqueEnemigo
   layers:
   - Default
   - TransparentFX
